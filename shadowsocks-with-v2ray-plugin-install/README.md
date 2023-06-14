@@ -11,12 +11,12 @@
 ``` shell
 # Installation
 ## CentOS 7/8
-wget -O centos-ss-install.sh https://github.com/DeepLaneA/shadowsocks-with-v2ray-plugin-install/raw/master/centos-ss-install.sh
+wget -O centos-ss-install.sh https://raw.githubusercontent.com/DeepLaneA/ScienceOnlineCollection/main/shadowsocks-with-v2ray-plugin-install/centos-ss-install.sh
 chmod +x centos-ss-install.sh
 ./centos-ss-install.sh
 
 ## Ubuntu 18.04/16.04 or Debian 9/10
-wget -O ubuntu-ss-install.sh https://github.com/DeepLaneA/shadowsocks-with-v2ray-plugin-install/raw/master/ubuntu-ss-install.sh
+wget -O ubuntu-ss-install.sh https://raw.githubusercontent.com/DeepLaneA/ScienceOnlineCollection/main/shadowsocks-with-v2ray-plugin-install/ubuntu-ss-install.sh
 chmod +x ubuntu-ss-install.sh
 ./ubuntu-ss-install.sh
 
